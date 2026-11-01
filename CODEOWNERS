@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @clubTchief
+/src/backend/database.py      @clubTchief
+/src/backend/routers/auth.py  @clubTchief
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @clubTchief
